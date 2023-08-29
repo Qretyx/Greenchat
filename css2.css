@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    
+}input{
+    border-radius:10px;
+}
+.green{
+    color: greenyellow;
+}.red{
+    color: red;
+}
+p{
+    color:white
+}.mesajgonder{
+    position: fixed;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 8px solid greenyellow;
+    padding: 10px;
+    border-radius: 10px;
+}.mesajlar{
+    color: greenyellow;
+}a{
+    text-decoration: none;
+    border-bottom: none;
+    color:white;
+}

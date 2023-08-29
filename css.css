@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    
+}
+.giris{
+    margin-top: 200px;
+    
+}.green{
+    color: greenyellow;
+}p{
+    color:white
+}.login{
+    border-radius:10px;
+    
+}.mesajgonder{
+    background: white; position: relative; z-index: 3000;
+}.mesajlar{
+    color: greenyellow;
+}
